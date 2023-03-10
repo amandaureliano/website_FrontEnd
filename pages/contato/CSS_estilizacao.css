@@ -1,0 +1,94 @@
+/*TEXTOS*/
+label {
+    color: #33323D;
+    font-family: 'Public Sans';
+    font-size: 0.813rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.875rem;
+    margin-top: 8px;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+input {
+    color: #33323D;
+    font-family: 'Public Sans';
+    font-size: 1.25rem;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.entreEmContato_container h1 {
+    color: #33323D;
+    font-family: 'Ibarra Real Nova';
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: -0.357143px;
+    line-height: 2.625rem;
+}
+
+.entreEmContato_card span {
+    color: #33323D;
+    font-family: 'Public Sans';
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.875rem;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    width: 635px;
+}
+
+.contato_container h2 {
+    color: #33323D;
+    font-family: 'Ibarra Real Nova';
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 700;
+    height: 42px;
+    letter-spacing: -0.357143px;
+    line-height: 2.625rem;
+    width: 350px;
+}
+
+
+/*BOTÕES*/
+button {
+    all: unset;
+    background: #203A4C;
+    color: #FFFFFF;
+    height: 48px;
+    margin-bottom: 109px;
+    margin-top: 16px;
+    text-align: center;
+    width: 200px;
+}
+
+button:hover {background-color: #5FB4A2;}
+
+input {
+    all: unset;
+    background: rgb(51, 50, 61, 10%);
+    height: 48px;
+    margin-bottom: 8px;
+    margin-top: 8px;
+    mix-blend-mode: normal;
+    padding-left: 10px;
+    width: 635px;
+}
+
+input:focus {border: 2px solid #000000;}
+
+
+/*IMAGENS*/
+.entreEmContato_icons {
+    align-items: center;
+    cursor: pointer;
+    display: flex;
+    gap: 15px;
+    height: 24px;
+    margin-bottom: 48px;
+    width: 25px;
+}

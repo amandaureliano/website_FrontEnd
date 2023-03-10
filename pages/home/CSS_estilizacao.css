@@ -1,0 +1,103 @@
+/*TEXTOS*/
+.hero_linha span {
+    color: white;
+    font-family: 'Public Sans';
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 0.881rem;
+    padding: 17px;
+}
+
+.hero_section h1 {
+    background-color: #FAFAFA;
+    color: #33323D;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 50px;
+    font-weight: 700;
+    letter-spacing: -0.446429px;
+    line-height: 3.125rem;
+    margin-top: 243px;
+    padding: 56px 27px 105px 27px;
+    position: absolute;
+}
+
+.sobre_card h2 {
+    color: #33323D;
+    font-family: 'Ibarra Real Nova';
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: -0.357143px;
+    line-height: 2.625rem;
+    margin-bottom: 28px;
+    margin-top: 49px;
+}
+
+.sobre_card h3 {
+    color: #33323D;
+    font-family: 'Public Sans';
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.875rem;
+    padding-bottom: 24px;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.sobrecard a {
+    font-family: 'Public Sans';
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 400;
+    letter-spacing: 2px;
+    line-height: 0.875rem;
+}
+
+
+/*BOTÕES*/
+.hero_linha button {
+    align-items: left;
+    background: #000000;
+    cursor: pointer;
+    height: 48px;
+    margin-right: 16px;
+    mix-blend-mode: normal;
+    opacity: 0.1;
+    width: 48px;
+}
+
+.button {
+    margin-bottom: 46px;
+    margin-left: 113px;
+    padding: 17px 0;
+}
+
+.img_2 {opacity: 0;}
+
+.hero_linha:hover .img_2 {opacity: 1;}
+
+.hero_linha:hover {background-color: #5FB4A2;}
+
+
+/*IMAGENS*/
+.hero_section img {
+    align-items: center;
+    height: auto;
+    position: absolute; 
+    width: 1116px; 
+}
+
+.hero_linha img {
+    align-self: center;
+    height: 12px;
+    margin-left: 16px;
+    width: 16px;
+}
+
+.sobre_section img {
+    height: auto;
+    width: 540px;
+}

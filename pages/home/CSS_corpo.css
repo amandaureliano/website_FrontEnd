@@ -1,0 +1,29 @@
+.hero_section {
+    height: 349px;
+    position: relative;
+    width: 445px;
+}
+
+.hero_linha {
+    background-color: #203A4C;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    margin-top: 552px;
+    position: absolute;
+    width: 200px;
+}
+
+.sobre_section { 
+    display: flex;
+    flex-direction: row;
+    margin-top: 400px;
+}
+
+.sobre_card {
+    display: flex;
+    flex-direction: column;
+    margin-left: 140px;
+    width: 430px;
+}

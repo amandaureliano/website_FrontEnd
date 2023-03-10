@@ -1,0 +1,127 @@
+hr {width: 350px;}
+
+main h2 {margin-top: 103px;}
+
+.contato_section h2 {margin-top: 0px;}
+
+main {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+/* MANAGE */
+.manage_section {
+    display: flex;
+    flex-direction: row;
+    gap: 125px;
+    height: auto;
+    margin-bottom: 80px;
+    margin-top: 44px;
+    width: 1015px;
+}
+
+.manage_card {
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* BOOKMARK */
+.bookmark_section {
+    display: flex;
+    flex-direction: row;
+    gap: 125px;
+    height: auto;
+    margin-bottom: 80px;
+    width: 1015px;
+}
+
+.bookmark_card {
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* INSURE */
+.insure_section {
+    display: flex;
+    flex-direction: row;
+    gap: 125px;
+    height: auto;
+    margin-bottom: 80px;
+    width: 1015px;
+}
+
+.insure_section span {
+    margin-bottom: 24px; 
+    margin-top: 28px;
+}
+
+.insure_card {
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* FYLO */
+.fylo_section {
+    display: flex;
+    flex-direction: row;
+    gap: 125px;
+    height: auto;
+    width: 1015px;
+}
+
+.fylo_section span {
+    margin-bottom: 24px; 
+    margin-top: 28px;
+}
+
+.fylo_card {
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* TEXTOS */
+h2 {
+    color: #33323D;
+    font-family: 'Ibarra Real Nova';
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: -0.357143px;
+    line-height: 2.625rem;
+}
+
+span {
+    color: #33323D;
+    font-family: 'Public Sans';
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.875rem;
+    margin-bottom: 54px; 
+    margin-top: 28px;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+
+/* BOTÕES */
+.button {
+    margin-bottom: 97px;
+    padding: 17px 0;
+    width: 175px;
+}
+
+.insure_card .button {
+    margin-bottom: 80px;
+}
+
+
+/* IMAGENS */
+main img {
+    width: 540px;
+}

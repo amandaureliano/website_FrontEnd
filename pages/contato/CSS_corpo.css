@@ -1,0 +1,41 @@
+body {background-color: #FAFAFA;}
+
+hr {width: 1110px;}
+
+.header_linha a {text-decoration: none;}
+
+.entreEmContato_container {
+    display: flex;
+    flex-direction: row;
+    gap: 125px;
+    margin-top: 48px;
+}
+
+.entreEmContato_card {
+    display: flex;
+    flex-direction: column;
+    gap: 54px;
+    margin-left: 42px;
+}
+
+.contato_section {
+    all: unset;
+    margin-bottom: 109px;
+}
+
+.contato_container {
+    display: flex;
+    flex-direction: row;
+    margin-top: 48px;
+}
+
+.contato_card {
+    color: black;
+    display: flex;
+    flex-direction: column;
+    margin-left: 125px;
+}
+
+.contato_card #mensagem {
+    padding-bottom: 48px;
+}
